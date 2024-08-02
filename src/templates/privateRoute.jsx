@@ -25,8 +25,10 @@ export default function PrivateRouteLayout() {
           </>
         ) : (
           <>
+          
             <div><Link to="/login">Login</Link></div>
             <div><Link to="/cadastro">Cadastro</Link></div>
+            
           </>
         )}
     </Header>
