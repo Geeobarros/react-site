@@ -1,0 +1,29 @@
+.containerFormRegister{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+
+}
+ 
+.containerFormRegister input, button{
+    width: 200px;
+    height: 35px;
+    border-radius: 5px;
+
+}
+
+.containerFormRegister input {
+    padding: 1rem;
+    
+}
+
+
+.titleFormRegister{
+    margin-bottom: 20px;
+}
+
+.errorSpan {
+    color: rgb(222, 0, 0);
+}
+

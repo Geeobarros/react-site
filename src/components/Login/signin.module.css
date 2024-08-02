@@ -1,0 +1,24 @@
+.containerFormLogin{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+
+}
+ 
+.containerFormLogin input, button{
+    width: 200px;
+    height: 35px;
+
+}
+
+.containerFormLogin input {
+    padding: 1rem;
+    border-radius: 5px;
+    
+}
+
+
+.titleFormLogin{
+    margin-bottom: 20px;
+}
